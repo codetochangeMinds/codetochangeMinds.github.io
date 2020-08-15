@@ -1,2 +1,2 @@
 # personal-portfolio
-Contains code for the personal portfolio
+This project contains a brief description about me, projects and blogs. 
